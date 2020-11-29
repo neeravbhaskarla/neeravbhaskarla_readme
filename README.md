@@ -1,7 +1,4 @@
 <div align="center">
-<h1> Hi 👋 My Name is Neerav Bhaskarla </h1>
-<!-- <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"> -->
-  <hr>
 <h1>Currently On</h1>
 <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
   <h1>Can Code In</h1>
