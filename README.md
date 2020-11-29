@@ -17,5 +17,5 @@
 <div style="display:block-inline">
   <a href="neeravbhaskarla@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/38/000000/gmail--v2.png"></a>
   <a href="https://stackoverflow.com/users/11688546/kindacoder" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/38px-Stack_Overflow_icon.svg.png"></a>
-  <a href="neeravbhaskarla@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/38/000000/gmail--v2.png"></a>
+  <a href="https://www.linkedin.com/in/neerav-bhaskarla-a481a9192/" target="_blank"><img src="linkedin.svg"></a>
 </div>
