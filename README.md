@@ -1,5 +1,6 @@
 ### Hi 👋 My Name is Neerav Bhaskarla 
 <link rel="preconnect" href="https://fonts.gstatic.com">
+<link rel="stylesheet" href="styles.css">
 <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap" rel="stylesheet">
 <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
 <h2>Working On</h2>
