@@ -1,9 +1,9 @@
 <div align="center">
 <h1> Hi 👋 My Name is Neerav Bhaskarla </h1>
 <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
-<h2>Working On</h2>
+<h1>Working On</h1>
 <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
-  <h2>Can Code In</h2>
+  <h1>Can Code In</h1>
 <div style="display:block-inline,padding:10px">
   <img src="https://img.icons8.com/color/96/000000/python.png">
   <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png"/>
