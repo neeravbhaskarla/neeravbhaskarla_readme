@@ -1,19 +1,43 @@
-<div align="center">
-<h1>Currently On</h1>
-<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
-  <h1>Can Code In</h1>
-<div style="display:block-inline,padding:10px">
-  <img src="https://img.icons8.com/color/96/000000/python.png">
-  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/color/96/000000/typescript.png"/>
-  <img src="https://img.icons8.com/color/96/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
-       </div>
-<br/>
-  <br/>
-<div style="display:block-inline,align:end">
-  <label><h3>Contact me At</h3><a href = "mailto: neeravbhaskarla@gmail.com"><img src="https://img.icons8.com/fluent/38/000000/gmail--v2.png"></a></label>
-<!--   <a href="https://stackoverflow.com/users/11688546/kindacoder" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/38px-Stack_Overflow_icon.svg.png"></a>
-  <a href="https://www.linkedin.com/in/neerav-bhaskarla-a481a9192/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" height="30px"></a> -->
-</div>
-</div>
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+Can code with
+| Python | C/C++ | JAVA | 
+ | :---: | :---: | :---: |
+ 
+
+ 
+#### Languages and Tools : 
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+
+
+
+### Portfolio : 
+https://neeravbhaskarla.com
+
+
+### Contact me here
+
+  <a href="https://www.linkedin.com/in/neerav-bhaskarla-a481a9192/">
+      <img align="left" alt="Neerav Bhaskarla | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="mailto:neeravbhaskarla@gmail.com">
+      <img align="left" alt="Neerav Bhaskarla | mail" width="24px" src="https://img.icons8.com/fluent/38/000000/gmail--v2.png" />
+  </a> 
+<br>
+<br>
+<br>
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=neeravbhaskarla&show_icons=true&theme=gotham" alt="neeravbhaskarla" />
