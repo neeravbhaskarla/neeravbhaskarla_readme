@@ -1,8 +1,13 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="580" height="400"/>
 
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">
+### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">
 
+<br>
+<br>
+<br> 
+
+## About Me
 #### Languages and Tools : 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -16,7 +21,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-### Contact me here
+#### Contact me
 
   <a href="https://www.linkedin.com/in/neerav-bhaskarla-a481a9192/">
       <img align="left" alt="Neerav Bhaskarla | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
@@ -24,6 +29,11 @@
   <a href="mailto:neeravbhaskarla@gmail.com">
       <img align="left" alt="Neerav Bhaskarla | mail" width="24px" src="https://img.icons8.com/fluent/38/000000/gmail--v2.png" />
   </a> 
+
+### Portfolio Website
+
+  https://neeravbhaskarla.com
+  
 <br>
  <hr align="center" width = 100%>
 📈 My GitHub Stats
