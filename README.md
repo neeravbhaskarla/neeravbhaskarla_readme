@@ -29,6 +29,5 @@
 📈 My GitHub Stats
 <br>
 <br>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=neeravbhaskarla&show_icons=true&theme=gotham" alt="neeravbhaskarla" align="left"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeravbhaskarla&&theme=gotham" alt="neeravbhaskarla" align="left"/
+<img src="https://github-readme-stats.vercel.app/api?username=neeravbhaskarla&show_icons=true&theme=gotham" alt="neeravbhaskarla" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeravbhaskarla&&theme=gotham" alt="neeravbhaskarla" align="left"/>
