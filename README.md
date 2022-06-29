@@ -16,10 +16,6 @@
 
 
 
-### Portfolio : 
-https://neeravbhaskarla.com
-
-
 ### Contact me here
 
   <a href="https://www.linkedin.com/in/neerav-bhaskarla-a481a9192/">
