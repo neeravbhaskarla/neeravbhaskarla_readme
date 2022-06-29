@@ -30,11 +30,5 @@
 <br>
 <br>
 <br>
-<div align="center" >
-    <img src="https://github-readme-stats.vercel.app/api?username=neeravbhaskarla&show_icons=true&theme=gotham" alt="neeravbhaskarla" />
- </div>
- <br>
- <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeravbhaskarla&&theme=gotham" alt="neeravbhaskarla"/>
-  </div>
-
+<img src="https://github-readme-stats.vercel.app/api?username=neeravbhaskarla&show_icons=true&theme=gotham" alt="neeravbhaskarla" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeravbhaskarla&&theme=gotham" alt="neeravbhaskarla" align="left"/
