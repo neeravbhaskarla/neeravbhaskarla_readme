@@ -35,7 +35,7 @@
 
 #### Portfolio Website
 
-  https://neeravbhaskarla.com
+  https://neeravbhaskarla.site
   
 <br>
 
